@@ -391,13 +391,6 @@ client.delete_registered_model(model_name)
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ## ![Spark Logo Tiny](https://files.training.databricks.com/images/105/logo_spark_tiny.png) Next Steps
-# MAGIC 
-# MAGIC Next we'll take a look at, [Webhooks and Testing]($./03a-Webhooks-and-Testing)
-
-# COMMAND ----------
-
-# MAGIC %md
 # MAGIC ## Additional Topics & Resources
 # MAGIC 
 # MAGIC **Q:** Where can I find out more information on MLflow Model Registry?  
